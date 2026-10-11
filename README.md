@@ -22,6 +22,7 @@ Hello，大家好，我是 cocofhu。99 年，INTP，后端研发。目前负责
 ## 最近在做
 
 - **[Grasp](https://github.com/cocofhu/grasp)** — 把多个项目和并行的 coding agent 放进一条可视化工作流
+- **[AniMuse](https://github.com/cocofhu/AniMuse)** — 开源网页动效库，挑一个效果，复制 Prompt 丢给 AI
 - **[anime-find](https://github.com/cocofhu/anime-find)** — 对话里搜番，卡片展示 Bangumi 评分和详情
 - **[SkillHub](https://github.com/cocofhu/skillhub)** — DeepSeek Harness 的 skill 社区
 - **[mcp-adapter](https://github.com/cocofhu/mcp-adapter)** — 用配置把 HTTP API 适配出去
