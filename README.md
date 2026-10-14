@@ -1,6 +1,6 @@
 ## Hi 👋, I'm cocofhu
 
-Hello，大家好，我是 cocofhu。99 年，INTP，后端研发。目前负责 [SkillHub](https://github.com/cocofhu/skillhub)，做面向中国用户的 AI Skills 社区，也在探索 AI Harness，让人和 Agent 更好地协作。
+Hello，大家好，我是 cocofhu。INTP，后端研发。目前负责 [SkillHub](https://github.com/cocofhu/skillhub)，做面向中国用户的 AI Skills 社区，也在探索 AI Harness，让人和 Agent 更好地协作。
 
 [![website](https://img.shields.io/badge/cocofhu.com-181717?style=flat&logo=googlechrome&logoColor=white)](https://cocofhu.com)
 
